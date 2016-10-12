@@ -10,7 +10,6 @@ title: 'Big O Theory Club'
 description: 'Thoughts on theoretical computer science and research life.'
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://theoryclub.github.io' # the base hostname & protocol for your site
-github_username: theoryclub
 
 # Build settings
 markdown: kramdown
