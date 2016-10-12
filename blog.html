@@ -1,0 +1,21 @@
+---
+layout: default
+moreexists: false
+showfeed: true
+permalink: /blog
+title: O(blog)
+header: O(blog)
+includecss: list.css
+---
+
+<h2 class="info">{{ site.description }}</h2>
+<p style="float: right; font-variant: small-caps;"><a id="continuelink" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
+<ul style="margin-bottom: 1.5em;">
+{% for post in site.posts %}
+    <li>
+        <h3 class="info"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <h4 class="info">{{ post.date | date: "%b %-d, %Y" }}</h4>
+        <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a id="continuelink" href="{{ post.url | prepend: site.baseurl }}">continue reading &#10095;</a></p>
+    </li>
+{% endfor %}
+</ul>

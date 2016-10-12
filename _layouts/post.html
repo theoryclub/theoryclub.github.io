@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            {{ page.title }}
+        </title>
+        <link rel="icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
+        <link href='https://fonts.googleapis.com/css?family=Catamaran:700,400' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Lora:700,400' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="{{ "/octicons/octicons.css" | prepend: site.baseurl }}">
+        <link rel="stylesheet" href="{{ "/css/aesthic.css" | prepend: site.baseurl }}">
+        <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+        {% if page.includecss != blank %}
+        <link rel="stylesheet" href="{{ "/css/" | prepend: site.baseurl | append: page.includecss }}">
+        {% endif %}
+        <meta charset="utf-8">
+        <meta name="author" content="Diptodip Deb">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="{{ site.description }}">
+    </head>
+    <body>
+        <div id="wrapper">
+            <div id="navigation">
+                {% include navbar.html %}
+            </div>
+            <div id="header" class="card">
+                <h1 class="info" style="text-align: center;">
+                    <strong>
+                        {{ page.header}}
+                    </strong>
+                </h1>
+                <h3 class="info">written by {{ page.author }}</h3>
+                <h4 class="info">published {{ page.date | date: "%B %d, %Y" }}</h4>
+            </div>
+            <div id="content" class="card">
+                {{ content }}
+                {% if page.moreexists %}
+                    {% include more.html prev=page.previous.title prevurl = page.previous.url prevdescription = page.previous.excerpt %}
+                {% endif %}
+            </div>
+            <div id="footer-container">
+                {% include footer.html %}
+            </div>
+        </div>
+    </body>
+</html>

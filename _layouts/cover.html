@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            {{ page.title }}
+        </title>
+        <link rel="icon" href="favicon.ico">
+        <link href='https://fonts.googleapis.com/css?family=Catamaran:700,400' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Oswald:,400' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="{{ "/octicons/octicons.css" | prepend: site.baseurl }}">
+        <link rel="stylesheet" href="{{ "/css/aesthic.css" | prepend: site.baseurl }}">
+        <link rel="stylesheet" href="{{ "/css/cover.css" | prepend: site.baseurl }}">
+        <meta charset="utf-8">
+        <meta name="author" content="Diptodip Deb">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="{{ site.description }}">
+    </head>
+    <body>
+        <div id="wrapper">
+            <div id="navigation">
+                {% include navbar.html %}
+            </div>
+            <div id="greetings" class="card">
+                <h1 class="logo" style="font-family: 'Oswald' !important; font-size: 4em !important;">
+                    THE<a style="color:#33cccc !important; font-family: 'Catamaran' !important; font-weight: 700 !important; font-size: 1.27em !important;">O</a>RY CLUB
+                </h1>
+                <h1>
+                    <strong>
+                        {{ page.greeting }}
+                    </strong>
+                </h1>
+            </div>
+            <div id="message" class="card">
+                <p>
+                {{ content }}
+                </p>
+            </div>
+            <div id="footer-container">
+                {% include footer.html %}
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,182 @@
+::selection {
+    background: #5ad19b; /* WebKit/Blink Browsers */
+    color: #fff9f3;
+}
+::-moz-selection {
+    background: #5ad19b; /* Gecko Browsers */
+    color: #fff9f3;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fff9f3;
+    color: #222222;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 1.2em;
+    height: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+#logo {
+    float: left;
+    padding: 1em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 700;
+    text-align: center;
+}
+
+#logo:hover {
+    color: #222;
+}
+
+.fade {
+    transition: all .25s ease-in-out;
+    -moz-transition: all .25s ease-in-out;
+    -webkit-transition: all .25s ease-in-out;
+}
+
+.card {
+    max-width: 36em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+}
+
+h1 {
+    padding: 0.75em;
+    font-size: 2.5em;
+}
+
+#wrapper {
+    z-index: 51;
+    min-height: 100%;
+    position: relative;
+}
+
+#content {
+    padding-top: 1.5em;
+    padding-bottom: 150px;
+}
+
+#more {
+    font-family: 'Lora', serif;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    text-align: center;
+    color: #33cccc;
+}
+
+#morelink {
+    background-color: #33cccc;
+    color: #fff9f3;
+    padding: 0.45em;
+    font-family: 'Catamaran', sans-serif;
+    text-decoration: none;
+    font-variant: small-caps;
+    letter-spacing: 0.05em;
+    font-weight: 700;
+}
+
+#moredescription {
+    font-size: 0.75em !important;
+}
+
+#footer-container {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 150px;
+}
+
+#footer {
+    color: #33cccc;
+    font-weight: 700;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    line-height: 1.7em;
+}
+
+footer {
+    width: 100%;
+}
+
+footer a {
+    color: #33cccc;
+    text-decoration: none;
+}
+
+p {
+    font-size: 1.1em;
+    padding: 1em;
+    line-height: 1.7em;
+}
+
+a {
+    color: #33cccc;
+}
+
+a:hover {
+    color: #66ffff;
+}
+
+nav {
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+nav a {
+    color: #222;
+    font-weight: 700;
+    padding-right: 2em;
+    padding-left: 2em;
+    text-decoration: none;
+    letter-spacing: 0.05em;
+}
+
+nav a:hover {
+    color: #999;
+}
+
+#logo:hover {
+    color: #fff9f3;
+    background: #33cccc;
+}
+
+@media screen and (max-width: 600px) {
+    nav a {
+        display: block;
+        margin-bottom: 0.5em;
+    }
+    
+}
+
+@media screen and (min-width: 1600px) {
+    body {
+        font-size: 1.4em;
+    }
+}
+
+@media screen and (min-width: 1800px) {
+    body {
+        font-size: 1.6em;
+    }
+}
+
+@media screen and (min-width: 2000px) {
+    body {
+        font-size: 1.7em;
+    }
+}
