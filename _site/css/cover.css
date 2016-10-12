@@ -4,12 +4,14 @@
 }
 
 .logo {
-    border-style: solid;
-    border-color: #222;
+    #border-style: solid;
+    #border-color: #222;
 }
 
-#navigation{
-    background: none;
+p {
+    border-style: solid;
+    border-color: #33cccc;
+    border-width: 0.5em;
 }
 
 h1 {
