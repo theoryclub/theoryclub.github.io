@@ -5,15 +5,15 @@
     <description>Thoughts on theoretical computer science and research life.</description>
     <link>https://theoryclub.github.io/</link>
     <atom:link href="https://theoryclub.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Oct 2016 04:32:35 -0400</pubDate>
-    <lastBuildDate>Wed, 12 Oct 2016 04:32:35 -0400</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2016 04:34:27 -0400</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2016 04:34:27 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>Hello</title>
         <description>&lt;blockquote&gt;
   &lt;p&gt;We can only see a short distance ahead, but we can see plenty there that needs to be done.
-–&lt;cite&gt;Alan Turing&lt;/cite&gt;&lt;/p&gt;
+~ &lt;cite&gt;Alan Turing&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Welcome to Georgia Tech’s Big O Theory Club! More things incoming (hopefully) soon.&lt;/p&gt;
