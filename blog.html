@@ -15,7 +15,7 @@ includecss: list.css
     <li>
         <h3 class="info"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <h4 class="info">{{ post.date | date: "%b %-d, %Y" }}</h4>
-        <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a id="continuelink" href="{{ post.url | prepend: site.baseurl }}">continue reading &#10095;</a></p>
+        <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a id="continuelink" href="{{ post.url | prepend: site.baseurl }}">Continue Reading &#10095;</a></p>
     </li>
 {% endfor %}
 </ul>
