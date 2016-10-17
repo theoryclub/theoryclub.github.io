@@ -1,6 +1,6 @@
 ---
 title: "Problem Session"
-header: Hello
+header: Problem Session
 date: 2016-10-17 00:00:00 -0400
 categories: problem-session blog
 ---
