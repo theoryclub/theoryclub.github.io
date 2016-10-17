@@ -13,5 +13,5 @@ Solutions will be uploaded when we get around to it.
 
 **Announcements:**
 
-* *ARC 10 DAY* is on October 24$^{th}$ and starts at 9:30AM in Klaus 1116! Don't forget to check it out.
-* The Blums will be giving talks on October 27$^{th}$: Blum #1 will present at 11AM in Klaus 1443 and Blum #2 will present at 5PM in Howey L4. See <a href="http://arc.gatech.edu/">the ARC webpage</a> for more.
+* *ARC 10 DAY* is on October 24<sup>th</sup> and starts at 9:30AM in Klaus 1116! Don't forget to check it out.
+* The Blums will be giving talks on October 27<sup>th</sup>: Blum #1 will present at 11AM in Klaus 1443 and Blum #2 will present at 5PM in Howey L4. See <a href="http://arc.gatech.edu/">the ARC webpage</a> for more.
