@@ -7,7 +7,7 @@ categories: problem-session blog
 
 We had a problem session today! We have two combinatorics problems and one erasure correction problem.
 
-You can get the problems here: <a href="{{ "/files/20161017_problem.pdf" | prepend: site.baseurl }}">Problems</a>.
+You can get the problems here: <a href="{{ "/files/20161017_problems.pdf" | prepend: site.baseurl }}">Problems</a>.
 
 Solutions will be uploaded when we get around to it.
 
