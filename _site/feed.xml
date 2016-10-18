@@ -5,9 +5,35 @@
     <description>Thoughts on theoretical computer science and research life.</description>
     <link>https://theoryclub.github.io/</link>
     <atom:link href="https://theoryclub.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Oct 2016 05:01:29 -0400</pubDate>
-    <lastBuildDate>Wed, 12 Oct 2016 05:01:29 -0400</lastBuildDate>
+    <pubDate>Mon, 17 Oct 2016 22:17:01 -0400</pubDate>
+    <lastBuildDate>Mon, 17 Oct 2016 22:17:01 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Problem Session</title>
+        <description>&lt;p&gt;We had a problem session today! We have two combinatorics problems and one erasure correction problem.&lt;/p&gt;
+
+&lt;p&gt;You can get the problems here: &lt;a href=&quot;/files/20161017_problems.pdf&quot;&gt;Problems&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Solutions will be uploaded when we get around to it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Announcements:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;ARC 10 DAY&lt;/em&gt; is on October 24&lt;sup&gt;th&lt;/sup&gt; and starts at 9:30AM in Klaus 1116! Don’t forget to check it out.&lt;/li&gt;
+  &lt;li&gt;The Blums will be giving talks on October 27&lt;sup&gt;th&lt;/sup&gt;: Blum #1 will present at 11AM in Klaus 1443 and Blum #2 will present at 5PM in Howey L4. See &lt;a href=&quot;http://arc.gatech.edu/&quot;&gt;the ARC webpage&lt;/a&gt; for more.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 17 Oct 2016 00:00:00 -0400</pubDate>
+        <link>https://theoryclub.github.io/2016/problem-session-oct-17</link>
+        <guid isPermaLink="true">https://theoryclub.github.io/2016/problem-session-oct-17</guid>
+        
+        
+        <category>problem-session</category>
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Hello</title>
@@ -23,9 +49,7 @@
         <guid isPermaLink="true">https://theoryclub.github.io/2016/hello</guid>
         
         
-        <category>hello</category>
-        
-        <category>update</category>
+        <category>problem-session</category>
         
         <category>blog</category>
         

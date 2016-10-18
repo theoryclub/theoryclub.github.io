@@ -76,7 +76,7 @@ h1 {
     color: #33cccc;
 }
 
-#morelink {
+.morelink {
     background-color: #33cccc;
     color: #fff9f3;
     padding: 0.45em;
@@ -85,6 +85,11 @@ h1 {
     font-variant: small-caps;
     letter-spacing: 0.05em;
     font-weight: 700;
+}
+
+.morelink:hover {
+    background-color: #65ece1;
+    color: #fff9f3;
 }
 
 #moredescription {
@@ -128,7 +133,7 @@ a {
 }
 
 a:hover {
-    color: #66ffff;
+    color: #65ece1;
 }
 
 nav {
