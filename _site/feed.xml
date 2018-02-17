@@ -5,9 +5,47 @@
     <description>Thoughts on theoretical computer science and research life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Jan 2018 12:59:41 -0800</pubDate>
-    <lastBuildDate>Wed, 24 Jan 2018 12:59:41 -0800</lastBuildDate>
+    <pubDate>Fri, 16 Feb 2018 22:43:44 -0500</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2018 22:43:44 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Derandomization Talk by Shyamal Patel</title>
+        <description>&lt;p&gt;We had a talk on derandomization by our workshop coordinator Shyamal!&lt;/p&gt;
+
+&lt;p&gt;Notes are available here: &lt;a href=&quot;/files/derandomization.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Feb 2018 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/derandomization</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/derandomization</guid>
+        
+        
+        <category>problem-session</category>
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Silly Talks</title>
+        <description>&lt;p&gt;We had silly talks from vaious students as a light-hearted introduction to the art of presenting!&lt;/p&gt;
+
+&lt;p&gt;The slides are available here:&lt;/p&gt;
+
+&lt;p&gt;Cardinality of the Power Set: &lt;a href=&quot;/files/silly-talk-1.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Klaus Advanced Computing Building: &lt;a href=&quot;http://slides.com/ankitsiva/silly/fullscreen&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Graph Isomorphism: &lt;a href=&quot;/files/silly-talk-2.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Feb 2018 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/silly-talks</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/silly-talks</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Group Isomorphisms Talk by Daniel Hathcock</title>
@@ -15,12 +53,10 @@
 
 &lt;p&gt;The slides are available here: &lt;a href=&quot;/files/Group-Isomorphisms.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 21 Jan 2018 20:00:00 -0800</pubDate>
+        <pubDate>Sun, 21 Jan 2018 23:00:00 -0500</pubDate>
         <link>http://localhost:4000/2018/group-isomorphisms</link>
         <guid isPermaLink="true">http://localhost:4000/2018/group-isomorphisms</guid>
         
-        
-        <category>problem-session</category>
         
         <category>blog</category>
         
@@ -32,7 +68,7 @@
 
 &lt;p&gt;The slides are available here: &lt;a href=&quot;/files/machinelearningtheory.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 06 Mar 2017 20:00:00 -0800</pubDate>
+        <pubDate>Mon, 06 Mar 2017 23:00:00 -0500</pubDate>
         <link>http://localhost:4000/2017/machine-learning-talk</link>
         <guid isPermaLink="true">http://localhost:4000/2017/machine-learning-talk</guid>
         
@@ -58,7 +94,7 @@
   &lt;li&gt;The Blums will be giving talks on October 27&lt;sup&gt;th&lt;/sup&gt;: Blum #1 will present at 11AM in Klaus 1443 and Blum #2 will present at 5PM in Howey L4. See &lt;a href=&quot;http://arc.gatech.edu/&quot;&gt;the ARC webpage&lt;/a&gt; for more.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sun, 16 Oct 2016 21:00:00 -0700</pubDate>
+        <pubDate>Mon, 17 Oct 2016 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2016/problem-session-oct-17</link>
         <guid isPermaLink="true">http://localhost:4000/2016/problem-session-oct-17</guid>
         
@@ -78,7 +114,7 @@
 
 &lt;p&gt;Welcome to Georgia Tech’s Big O Theory Club! More things incoming (hopefully) soon.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 11 Oct 2016 21:00:00 -0700</pubDate>
+        <pubDate>Wed, 12 Oct 2016 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2016/hello</link>
         <guid isPermaLink="true">http://localhost:4000/2016/hello</guid>
         
