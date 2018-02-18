@@ -14,3 +14,5 @@ Cardinality of the Power Set: <a href="{{ "/files/silly-talk-1.pdf" | prepend: s
 Klaus Advanced Computing Building: <a href="http://slides.com/ankitsiva/silly/fullscreen">Slides</a>.
 
 Graph Isomorphism: <a href="{{ "/files/silly-talk-2.pdf" | prepend: site.baseurl }}">Slides</a>.
+
+Why Your Friends Have More: <a href="{{ "/files/silly-talk-3.pdf" | prepend: site.baseurl }}">Slides</a>.
