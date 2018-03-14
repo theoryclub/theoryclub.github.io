@@ -5,9 +5,39 @@
     <description>Thoughts on theoretical computer science and research life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Feb 2018 14:41:52 -0500</pubDate>
-    <lastBuildDate>Wed, 28 Feb 2018 14:41:52 -0500</lastBuildDate>
+    <pubDate>Tue, 13 Mar 2018 22:06:59 -0400</pubDate>
+    <lastBuildDate>Tue, 13 Mar 2018 22:06:59 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Markov Chain Monte Carlo Methods Talk by Sherry Sarkar</title>
+        <description>&lt;p&gt;We had a talk on Monte Carlo Methods using Markov Chains by Sherry this week!&lt;/p&gt;
+
+&lt;p&gt;Slides are available here: &lt;a href=&quot;/files/MarkovChains.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/markov-monte</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/markov-monte</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Neural Network Complexity Talk by Santosh Vempala</title>
+        <description>&lt;p&gt;We had a talk on Neural Network Complexity by professor Santosh Vempala this week!&lt;/p&gt;
+
+&lt;p&gt;The video recording of the talk is here: &lt;a href=&quot;https://drive.google.com/file/d/1LyejCRj1DoZVh4gK4kjoZTsuMIBX8VH1/view?usp=sharing&quot;&gt;Video&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Mar 2018 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/nn-complexity</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/nn-complexity</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Zero Knowledge Proofs Problem Session by Sherry Sarkar</title>
