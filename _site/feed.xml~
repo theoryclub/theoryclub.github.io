@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big O Theory Club</title>
+    <description>Thoughts on theoretical computer science and research life.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 06 Apr 2018 06:41:50 -0400</pubDate>
+    <lastBuildDate>Fri, 06 Apr 2018 06:41:50 -0400</lastBuildDate>
+=======
+    <pubDate>Thu, 22 Mar 2018 20:20:13 -0400</pubDate>
+    <lastBuildDate>Thu, 22 Mar 2018 20:20:13 -0400</lastBuildDate>
+>>>>>>> 0d6cd1a9e2f7697a73a253401ec5415baca4821d
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Big O Officer Elections</title>
+        <description>&lt;p&gt;Officer elections for next school year will be held on April 23rd. If you are interested in becoming an officer, fill our the following form:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://goo.gl/forms/kTja8DNGGlp2qZV13&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Apr 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/elections</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/elections</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Easter Problem Session by Shyamal Patel</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/files/Egg.pdf&quot;&gt;egg&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Mar 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/egg</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/egg</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Markov Chain Monte Carlo Methods Talk by Sherry Sarkar</title>
+        <description>&lt;p&gt;We had a talk on Monte Carlo Methods using Markov Chains by Sherry this week!&lt;/p&gt;
+
+&lt;p&gt;Slides are available here: &lt;a href=&quot;/files/MarkovChains.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/markov-monte</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/markov-monte</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Neural Network Complexity Talk by Santosh Vempala</title>
+        <description>&lt;p&gt;We had a talk on Neural Network Complexity by professor Santosh Vempala this week!&lt;/p&gt;
+
+&lt;p&gt;The video recording of the talk is here: &lt;a href=&quot;https://drive.google.com/file/d/1LyejCRj1DoZVh4gK4kjoZTsuMIBX8VH1/view?usp=sharing&quot;&gt;Video&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Mar 2018 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/nn-complexity</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/nn-complexity</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Zero Knowledge Proofs Problem Session by Sherry Sarkar</title>
+        <description>&lt;p&gt;We had a problem session on zero knowledge proofs by Sherry this week!&lt;/p&gt;
+
+&lt;p&gt;Slides are available here: &lt;a href=&quot;/files/zero-knowledge.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Feb 2018 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/zero-knowledge</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/zero-knowledge</guid>
+        
+        
+        <category>problem-session</category>
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Catalan Shuffles Talk by Prasad Tetali</title>
+        <description>&lt;p&gt;We had a talk on Catalan Shuffles by professor Prasad Tetali this week!&lt;/p&gt;
+
+&lt;p&gt;His website is here: &lt;a href=&quot;http://people.math.gatech.edu/~tetali/&quot;&gt;Website&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Feb 2018 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/catalan-shuffles</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/catalan-shuffles</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Derandomization Talk by Shyamal Patel</title>
+        <description>&lt;p&gt;We had a talk on derandomization by our workshop coordinator Shyamal!&lt;/p&gt;
+
+&lt;p&gt;Notes are available here: &lt;a href=&quot;/files/derandomization.pdf&quot;&gt;Notes&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Feb 2018 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/derandomization</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/derandomization</guid>
+        
+        
+        <category>problem-session</category>
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Silly Talks</title>
+        <description>&lt;p&gt;We had silly talks from vaious students as a light-hearted introduction to the art of presenting!&lt;/p&gt;
+
+&lt;p&gt;The slides are available here:&lt;/p&gt;
+
+&lt;p&gt;Cardinality of the Power Set: &lt;a href=&quot;/files/silly-talk-1.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Klaus Advanced Computing Building: &lt;a href=&quot;http://slides.com/ankitsiva/silly/fullscreen&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Graph Isomorphism: &lt;a href=&quot;/files/silly-talk-2.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Why Your Friends Have More: &lt;a href=&quot;/files/silly-talk-3.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Feb 2018 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/silly-talks</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/silly-talks</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Group Isomorphisms Talk by Daniel Hathcock</title>
+        <description>&lt;p&gt;We had a talk on introductory group theory and group isomorphisms for our first meeting of the semester!&lt;/p&gt;
+
+&lt;p&gt;The slides are available here: &lt;a href=&quot;/files/Group-Isomorphisms.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Jan 2018 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/group-isomorphisms</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/group-isomorphisms</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Machine Learning Theory Talk by Diptodip Deb</title>
+        <description>&lt;p&gt;We had a talk on introductory machine learning theory (Bayesian Learning and Computational Learning Theory) this week!&lt;/p&gt;
+
+&lt;p&gt;The slides are available here: &lt;a href=&quot;/files/machinelearningtheory.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Mar 2017 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2017/machine-learning-talk</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/machine-learning-talk</guid>
+        
+        
+        <category>problem-session</category>
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
