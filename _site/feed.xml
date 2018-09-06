@@ -5,9 +5,26 @@
     <description>Thoughts on theoretical computer science and research life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Aug 2018 10:47:32 +0900</pubDate>
-    <lastBuildDate>Tue, 28 Aug 2018 10:47:32 +0900</lastBuildDate>
+    <pubDate>Fri, 07 Sep 2018 04:46:16 +0900</pubDate>
+    <lastBuildDate>Fri, 07 Sep 2018 04:46:16 +0900</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Introduction to Computer Vision Workshop</title>
+        <description>&lt;p&gt;We had our second meeting on Tuesday this week because of Labor Day, and instead of a talk, we had a workshop in preparation for the Home Depot Deep Learning Hackathon. Arvind gave an introduction to the field of computer vision along with a simple Keras demo on the MNIST dataset. Slides for the workshop are &lt;a href=&quot;https://docs.google.com/presentation/d/1Xyk0Nq-6QzS-pu4l8NNTBZYhcLJFGDxtPsmHRXklyg4/edit#slide=id.p&quot;&gt;here&lt;/a&gt;, and the code is &lt;a href=&quot;https://bit.ly/2Cgzn6b&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Agency, GT’s Artificial Intelligence/Machine Learning club, ran a follow-up workshop on Generative Adversarial Networks, an advanced network architecture used in many state-of-the-art computer vision models today. The slides for that are &lt;a href=&quot;http://gtagency.github.io/2018/intro-to-gans&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More information about the Deep Learning Hackathon, which is jointly run by us and the Agency can be found &lt;a href=&quot;https://www.facebook.com/events/1006843382831023/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Sep 2018 13:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2018/cv-workshop</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/cv-workshop</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Big O Fall 2018 First Meeting</title>
@@ -146,21 +163,6 @@
         <pubDate>Mon, 05 Feb 2018 13:00:00 +0900</pubDate>
         <link>http://localhost:4000/2018/silly-talks</link>
         <guid isPermaLink="true">http://localhost:4000/2018/silly-talks</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Group Isomorphisms Talk by Daniel Hathcock</title>
-        <description>&lt;p&gt;We had a talk on introductory group theory and group isomorphisms for our first meeting of the semester!&lt;/p&gt;
-
-&lt;p&gt;The slides are available here: &lt;a href=&quot;/files/Group-Isomorphisms.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 22 Jan 2018 13:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2018/group-isomorphisms</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/group-isomorphisms</guid>
         
         
         <category>blog</category>
