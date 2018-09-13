@@ -5,9 +5,22 @@
     <description>Thoughts on theoretical computer science and research life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Sep 2018 04:46:16 +0900</pubDate>
-    <lastBuildDate>Fri, 07 Sep 2018 04:46:16 +0900</lastBuildDate>
+    <pubDate>Thu, 13 Sep 2018 14:27:26 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Sep 2018 14:27:26 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Number Theory Problem Session</title>
+        <description>&lt;p&gt;This meeting, we had a problem session on various number theory topics, led by Shyamal. The problems were (very) loosely related to the career fair, and were based on this CodeChef lecture &lt;a href=&quot;https://youtu.be/_noJI8UkTq8&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Sep 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/number-theory-problem-session</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/number-theory-problem-session</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Introduction to Computer Vision Workshop</title>
@@ -17,7 +30,7 @@
 
 &lt;p&gt;More information about the Deep Learning Hackathon, which is jointly run by us and the Agency can be found &lt;a href=&quot;https://www.facebook.com/events/1006843382831023/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Sep 2018 13:00:00 +0900</pubDate>
+        <pubDate>Tue, 04 Sep 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/cv-workshop</link>
         <guid isPermaLink="true">http://localhost:4000/2018/cv-workshop</guid>
         
@@ -30,7 +43,7 @@
         <title>Big O Fall 2018 First Meeting</title>
         <description>&lt;p&gt;Welcome to Big O: Theory Club! We had our first meeting where we introduced officers explained what Theory Club is all about. We also had a short problem session which you can find &lt;a href=&quot;/files/First-Meeting.pdf&quot;&gt;here&lt;/a&gt;, along with the other slides.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 27 Aug 2018 13:00:00 +0900</pubDate>
+        <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/first-meeting</link>
         <guid isPermaLink="true">http://localhost:4000/2018/first-meeting</guid>
         
@@ -45,7 +58,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://goo.gl/forms/kTja8DNGGlp2qZV13&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 06 Apr 2018 13:00:00 +0900</pubDate>
+        <pubDate>Fri, 06 Apr 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/elections</link>
         <guid isPermaLink="true">http://localhost:4000/2018/elections</guid>
         
@@ -58,7 +71,7 @@
         <title>Easter Problem Session by Shyamal Patel</title>
         <description>&lt;p&gt;&lt;a href=&quot;/files/Egg.pdf&quot;&gt;egg&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 26 Mar 2018 13:00:00 +0900</pubDate>
+        <pubDate>Mon, 26 Mar 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/egg</link>
         <guid isPermaLink="true">http://localhost:4000/2018/egg</guid>
         
@@ -73,7 +86,7 @@
 
 &lt;p&gt;Slides are available here: &lt;a href=&quot;/files/MarkovChains.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Mar 2018 13:00:00 +0900</pubDate>
+        <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/markov-monte</link>
         <guid isPermaLink="true">http://localhost:4000/2018/markov-monte</guid>
         
@@ -88,7 +101,7 @@
 
 &lt;p&gt;The video recording of the talk is here: &lt;a href=&quot;https://drive.google.com/file/d/1LyejCRj1DoZVh4gK4kjoZTsuMIBX8VH1/view?usp=sharing&quot;&gt;Video&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 05 Mar 2018 13:00:00 +0900</pubDate>
+        <pubDate>Sun, 04 Mar 2018 23:00:00 -0500</pubDate>
         <link>http://localhost:4000/2018/nn-complexity</link>
         <guid isPermaLink="true">http://localhost:4000/2018/nn-complexity</guid>
         
@@ -103,7 +116,7 @@
 
 &lt;p&gt;Slides are available here: &lt;a href=&quot;/files/zero-knowledge.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 26 Feb 2018 13:00:00 +0900</pubDate>
+        <pubDate>Sun, 25 Feb 2018 23:00:00 -0500</pubDate>
         <link>http://localhost:4000/2018/zero-knowledge</link>
         <guid isPermaLink="true">http://localhost:4000/2018/zero-knowledge</guid>
         
@@ -120,7 +133,7 @@
 
 &lt;p&gt;His website is here: &lt;a href=&quot;http://people.math.gatech.edu/~tetali/&quot;&gt;Website&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 19 Feb 2018 13:00:00 +0900</pubDate>
+        <pubDate>Sun, 18 Feb 2018 23:00:00 -0500</pubDate>
         <link>http://localhost:4000/2018/catalan-shuffles</link>
         <guid isPermaLink="true">http://localhost:4000/2018/catalan-shuffles</guid>
         
@@ -135,35 +148,12 @@
 
 &lt;p&gt;Notes are available here: &lt;a href=&quot;/files/derandomization.pdf&quot;&gt;Notes&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Feb 2018 13:00:00 +0900</pubDate>
+        <pubDate>Sun, 11 Feb 2018 23:00:00 -0500</pubDate>
         <link>http://localhost:4000/2018/derandomization</link>
         <guid isPermaLink="true">http://localhost:4000/2018/derandomization</guid>
         
         
         <category>problem-session</category>
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Silly Talks</title>
-        <description>&lt;p&gt;We had silly talks from vaious students as a light-hearted introduction to the art of presenting!&lt;/p&gt;
-
-&lt;p&gt;The slides are available here:&lt;/p&gt;
-
-&lt;p&gt;Cardinality of the Power Set: &lt;a href=&quot;/files/silly-talk-1.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Klaus Advanced Computing Building: &lt;a href=&quot;http://slides.com/ankitsiva/silly/fullscreen&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Graph Isomorphism: &lt;a href=&quot;/files/silly-talk-2.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Why Your Friends Have More: &lt;a href=&quot;/files/silly-talk-3.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Feb 2018 13:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2018/silly-talks</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/silly-talks</guid>
-        
         
         <category>blog</category>
         
