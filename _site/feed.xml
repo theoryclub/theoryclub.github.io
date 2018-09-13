@@ -5,15 +5,15 @@
     <description>Thoughts on theoretical computer science and research life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Sep 2018 14:27:26 -0400</pubDate>
-    <lastBuildDate>Thu, 13 Sep 2018 14:27:26 -0400</lastBuildDate>
+    <pubDate>Thu, 13 Sep 2018 14:32:03 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Sep 2018 14:32:03 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
         <title>Number Theory Problem Session</title>
         <description>&lt;p&gt;This meeting, we had a problem session on various number theory topics, led by Shyamal. The problems were (very) loosely related to the career fair, and were based on this CodeChef lecture &lt;a href=&quot;https://youtu.be/_noJI8UkTq8&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Sep 2018 00:00:00 -0400</pubDate>
+        <pubDate>Mon, 10 Sep 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/number-theory-problem-session</link>
         <guid isPermaLink="true">http://localhost:4000/2018/number-theory-problem-session</guid>
         

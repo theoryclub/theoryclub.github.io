@@ -1,7 +1,7 @@
 ---
 title: "Number Theory Problem Session"
 header: Number Theory Problem Session
-date: 2018-09-04 00:00:00 -0400
+date: 2018-09-10 00:00:00 -0400
 categories: blog
 ---
 
