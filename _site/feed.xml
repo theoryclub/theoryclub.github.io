@@ -5,9 +5,37 @@
     <description>Thoughts on theoretical computer science and research life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Oct 2018 18:12:28 -0400</pubDate>
-    <lastBuildDate>Wed, 10 Oct 2018 18:12:28 -0400</lastBuildDate>
+    <pubDate>Wed, 24 Oct 2018 21:20:00 -0400</pubDate>
+    <lastBuildDate>Wed, 24 Oct 2018 21:20:00 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>The Multi-Armed Bandit Problem</title>
+        <description>&lt;p&gt;We had our first faculty talk by Dr. Jacob Abernethy today! Dr. Abernethy recently joined GT as part of the theoretical CS department. He currently teaches CS 4540 (Advanced Algorithms) and Graduate ML Theory. His talk was on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Multi-armed_bandit&quot;&gt;multi-armed bandit problem&lt;/a&gt; and more generally, solving zero-sum games without the iid requirements that are prevalent in much of ML theory today. Click &lt;a href=&quot;https://www.cc.gatech.edu/news/600231/top-machine-learning-researcher-jake-abernethy-joins-school-computer-science&quot;&gt;here&lt;/a&gt; to learn more about Dr. Abernethy (and his juggling skills).&lt;/p&gt;
+
+&lt;p&gt;If you are interested in an REU, there is a Google doc &lt;a href=&quot;https://docs.google.com/document/d/1gG_0dAAmoaLN1rHJsxfR0EGiiWCum6KZ0sBFW2Gy578/edit?usp=sharing&quot;&gt;here&lt;/a&gt; with helpful information for applying.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/bandit-problem</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/bandit-problem</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Silly Talks</title>
+        <description>&lt;p&gt;Thank you to everyone who presented for silly talks today! For the proof that the moon is fake, click &lt;a href=&quot;/files/moon-is-fake.pptx&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/silly-talks</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/silly-talks</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Provable Security and Cryptocurrency</title>
@@ -128,38 +156,6 @@
         <link>http://localhost:4000/2018/markov-monte</link>
         <guid isPermaLink="true">http://localhost:4000/2018/markov-monte</guid>
         
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Neural Network Complexity Talk by Santosh Vempala</title>
-        <description>&lt;p&gt;We had a talk on Neural Network Complexity by professor Santosh Vempala this week!&lt;/p&gt;
-
-&lt;p&gt;The video recording of the talk is here: &lt;a href=&quot;https://drive.google.com/file/d/1LyejCRj1DoZVh4gK4kjoZTsuMIBX8VH1/view?usp=sharing&quot;&gt;Video&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 04 Mar 2018 23:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/nn-complexity</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/nn-complexity</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Zero Knowledge Proofs Problem Session by Sherry Sarkar</title>
-        <description>&lt;p&gt;We had a problem session on zero knowledge proofs by Sherry this week!&lt;/p&gt;
-
-&lt;p&gt;Slides are available here: &lt;a href=&quot;/files/zero-knowledge.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 25 Feb 2018 23:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/zero-knowledge</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/zero-knowledge</guid>
-        
-        
-        <category>problem-session</category>
         
         <category>blog</category>
         
