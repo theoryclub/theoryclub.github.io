@@ -5,9 +5,22 @@
     <description>Thoughts on theoretical computer science and research life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Oct 2018 21:20:00 -0400</pubDate>
-    <lastBuildDate>Wed, 24 Oct 2018 21:20:00 -0400</lastBuildDate>
+    <pubDate>Fri, 02 Nov 2018 20:34:22 -0400</pubDate>
+    <lastBuildDate>Fri, 02 Nov 2018 20:34:22 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Spooky Problem Session</title>
+        <description>&lt;p&gt;Happy Halloween! We had an adeptly themed problem session led by Arvind this week! You can find the problems &lt;a href=&quot;https://docs.google.com/presentation/d/1hmR_X0NY--Zuu3L6LPkOXNbxNwck9BKCCVIPBvDCHE8/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/spooky-problem-session</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/spooky-problem-session</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>The Multi-Armed Bandit Problem</title>
@@ -140,21 +153,6 @@
         <pubDate>Mon, 26 Mar 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/egg</link>
         <guid isPermaLink="true">http://localhost:4000/2018/egg</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Markov Chain Monte Carlo Methods Talk by Sherry Sarkar</title>
-        <description>&lt;p&gt;We had a talk on Monte Carlo Methods using Markov Chains by Sherry this week!&lt;/p&gt;
-
-&lt;p&gt;Slides are available here: &lt;a href=&quot;/files/MarkovChains.pdf&quot;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2018/markov-monte</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/markov-monte</guid>
         
         
         <category>blog</category>
