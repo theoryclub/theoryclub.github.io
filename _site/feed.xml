@@ -5,9 +5,22 @@
     <description>Thoughts on theoretical computer science and research life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Nov 2018 18:01:05 -0500</pubDate>
-    <lastBuildDate>Mon, 19 Nov 2018 18:01:05 -0500</lastBuildDate>
+    <pubDate>Tue, 20 Nov 2018 21:45:17 -0500</pubDate>
+    <lastBuildDate>Tue, 20 Nov 2018 21:45:17 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Happy Ending Problem</title>
+        <description>&lt;p&gt;This week, Sherry gave a lecture/problem session on the Happy Ending Problem, a popular field of mathematics created by P. Erdös, G. Szekeres, and E. Klein. This problem is very interesting for its connections to Ramsey theory. Her main reference is this &lt;a href=&quot;http://neeldhara.com/ramblings/notes/cgt-01&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Nov 2018 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/happy-ending</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/happy-ending</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Markov Chain Monte Carlo Methods</title>
@@ -141,19 +154,6 @@ Over the past three decades, works related to efficient solvers for a class of g
         <pubDate>Tue, 04 Sep 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/cv-workshop</link>
         <guid isPermaLink="true">http://localhost:4000/2018/cv-workshop</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Big O Fall 2018 First Meeting</title>
-        <description>&lt;p&gt;Welcome to Big O: Theory Club! We had our first meeting where we introduced officers explained what Theory Club is all about. We also had a short problem session which you can find &lt;a href=&quot;/files/First-Meeting.pdf&quot;&gt;here&lt;/a&gt;, along with the other slides.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2018/first-meeting</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/first-meeting</guid>
         
         
         <category>blog</category>
