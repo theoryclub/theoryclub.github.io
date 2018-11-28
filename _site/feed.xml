@@ -5,9 +5,22 @@
     <description>Thoughts on theoretical computer science and research life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Nov 2018 21:45:17 -0500</pubDate>
-    <lastBuildDate>Tue, 20 Nov 2018 21:45:17 -0500</lastBuildDate>
+    <pubDate>Wed, 28 Nov 2018 16:25:45 -0500</pubDate>
+    <lastBuildDate>Wed, 28 Nov 2018 16:25:45 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Oracles in Complexity Theory</title>
+        <description>&lt;p&gt;A guest appearance by our faculty talks coordinator DeVon, we had an introduction to oracles. Additionally, he talked about Bounded Error Quantum Polynomial Time (BQP) vs. Polynomial Hierarchy (PH) and barriers to proofs in complexity theory. The slides are &lt;a href=&quot;/files/oraclescomplexity.pptx&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Nov 2018 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/oracles</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/oracles</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Happy Ending Problem</title>
@@ -137,23 +150,6 @@ Over the past three decades, works related to efficient solvers for a class of g
         <pubDate>Mon, 10 Sep 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/number-theory-problem-session</link>
         <guid isPermaLink="true">http://localhost:4000/2018/number-theory-problem-session</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Introduction to Computer Vision Workshop</title>
-        <description>&lt;p&gt;We had our second meeting on Tuesday this week because of Labor Day, and instead of a talk, we had a workshop in preparation for the Home Depot Deep Learning Hackathon. Arvind gave an introduction to the field of computer vision along with a simple Keras demo on the MNIST dataset. Slides for the workshop are &lt;a href=&quot;https://docs.google.com/presentation/d/1Xyk0Nq-6QzS-pu4l8NNTBZYhcLJFGDxtPsmHRXklyg4/edit#slide=id.p&quot;&gt;here&lt;/a&gt;, and the code is &lt;a href=&quot;https://bit.ly/2Cgzn6b&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The Agency, GT’s Artificial Intelligence/Machine Learning club, ran a follow-up workshop on Generative Adversarial Networks, an advanced network architecture used in many state-of-the-art computer vision models today. The slides for that are &lt;a href=&quot;http://gtagency.github.io/2018/intro-to-gans&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;More information about the Deep Learning Hackathon, which is jointly run by us and the Agency can be found &lt;a href=&quot;https://www.facebook.com/events/1006843382831023/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 04 Sep 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2018/cv-workshop</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/cv-workshop</guid>
         
         
         <category>blog</category>
