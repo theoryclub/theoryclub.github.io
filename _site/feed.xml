@@ -5,9 +5,24 @@
     <description>Thoughts on theoretical computer science and research life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Nov 2018 16:25:45 -0500</pubDate>
-    <lastBuildDate>Wed, 28 Nov 2018 16:25:45 -0500</lastBuildDate>
+    <pubDate>Mon, 31 Dec 2018 15:57:25 -0500</pubDate>
+    <lastBuildDate>Mon, 31 Dec 2018 15:57:25 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Deletion Codes</title>
+        <description>&lt;p&gt;For our final meeting of the semester, we had professor Venkat Guruswami present a talk on deletion codes, a subset of error-correction codes. Thank you to everyone who came to Big O this semester! We’ll see you next year!&lt;/p&gt;
+
+&lt;p&gt;The slides for the talk are &lt;a href=&quot;/files/deletion-codes.pptx&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Dec 2018 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/deletion-codes</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/deletion-codes</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Oracles in Complexity Theory</title>
@@ -137,19 +152,6 @@ Over the past three decades, works related to efficient solvers for a class of g
         <pubDate>Mon, 17 Sep 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/message-auth</link>
         <guid isPermaLink="true">http://localhost:4000/2018/message-auth</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Number Theory Problem Session</title>
-        <description>&lt;p&gt;This meeting, we had a problem session on various number theory topics, led by Shyamal. The problems were (very) loosely related to the career fair, and were based on this CodeChef lecture &lt;a href=&quot;https://youtu.be/_noJI8UkTq8&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Sep 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2018/number-theory-problem-session</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/number-theory-problem-session</guid>
         
         
         <category>blog</category>
