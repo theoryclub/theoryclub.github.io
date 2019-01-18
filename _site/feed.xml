@@ -5,9 +5,26 @@
     <description>Thoughts on theoretical computer science and research life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Dec 2018 15:57:25 -0500</pubDate>
-    <lastBuildDate>Mon, 31 Dec 2018 15:57:25 -0500</lastBuildDate>
+    <pubDate>Thu, 17 Jan 2019 22:00:47 -0500</pubDate>
+    <lastBuildDate>Thu, 17 Jan 2019 22:00:47 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Donut Problem Session</title>
+        <description>&lt;p&gt;First meeting of the semester was a problem session! We had donuts as well as a few very interesting problems about
+discrete structures, probability, and set theory.
+The slides for the problem session are &lt;a href=&quot;https://docs.google.com/presentation/d/1cAq-9GU3H-qxc3b5Mr-9oRnub0Dqy35unSzF9FrdEpw/edit?usp=sharing&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;All of the problems in one nice pdf are &lt;a href=&quot;/files/DonutProblemSession.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 Jan 2019 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2019/donut-problem-session</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/donut-problem-session</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Deletion Codes</title>
@@ -139,19 +156,6 @@ Over the past three decades, works related to efficient solvers for a class of g
         <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/security-cryptocurrency</link>
         <guid isPermaLink="true">http://localhost:4000/2018/security-cryptocurrency</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Information Theoretic Message Authentication</title>
-        <description>&lt;p&gt;Our student talks coordinator Daniel gave our first student talk of the semester on message authentication in the information theoretic setting. Slides are &lt;a href=&quot;https://drive.google.com/open?id=1EXHtcE6gS4qiJ-RxcrpTjujOfz1fvTKCTBVkvp-7L84&quot;&gt;here&lt;/a&gt;. If you are interested in giving a student talk at any point in the semester, please contact one of the officers. We welcome all talks even slightly related to theoretical computer science!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 Sep 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2018/message-auth</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/message-auth</guid>
         
         
         <category>blog</category>
