@@ -26,3 +26,5 @@ defaults:
             moreexists: true
             permalink: /:year/:title
             author: Theory Club
+
+future: true
