@@ -5,15 +5,34 @@
     <description>Thoughts on theoretical computer science and research life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Jan 2019 22:00:47 -0500</pubDate>
-    <lastBuildDate>Thu, 17 Jan 2019 22:00:47 -0500</lastBuildDate>
+    <pubDate>Mon, 28 Jan 2019 23:12:50 -0500</pubDate>
+    <lastBuildDate>Mon, 28 Jan 2019 23:12:50 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Distance Preservers</title>
+        <description>&lt;p&gt;This meeting will be a talk on sparse distance preservers of graphs given by Greg Bodwin.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Distance Preservers&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+One of the most fundamental and useful facts in computer science is the existence of BFS trees: given a graph G = (V, E) and a source node s, there is a tree that preserves all pairwise distances in P = {s} x V.  But what if we want to preserve distances between an arbitrary set of node pairs, which doesn’t happen to have the structure P = {s} x V?  How big does a distance-preserving subgraph then need to be?&lt;/p&gt;
+
+&lt;p&gt;In this talk, we will show that the answer is “surprisingly small,” and that in many nontrivial situations you only need O(n) edges in the subgraph.  We’ll describe a new yet simple way to think of shortest paths in graphs, escaping the influence of BFS Trees, and we’ll discuss a few open problems on the frontier of research on distance preservers.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Feb 2019 23:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2019/sparse-distance-preservers</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/sparse-distance-preservers</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Donut Problem Session</title>
         <description>&lt;p&gt;First meeting of the semester was a problem session! We had donuts as well as a few very interesting problems about
-discrete structures, probability, and set theory.
-The slides for the problem session are &lt;a href=&quot;https://docs.google.com/presentation/d/1cAq-9GU3H-qxc3b5Mr-9oRnub0Dqy35unSzF9FrdEpw/edit?usp=sharing&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+discrete structures, probability, and set theory. The slides for the problem session are &lt;a href=&quot;https://docs.google.com/presentation/d/1cAq-9GU3H-qxc3b5Mr-9oRnub0Dqy35unSzF9FrdEpw/edit?usp=sharing&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;All of the problems in one nice pdf are &lt;a href=&quot;/files/DonutProblemSession.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -131,31 +150,6 @@ Over the past three decades, works related to efficient solvers for a class of g
         <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/silly-talks</link>
         <guid isPermaLink="true">http://localhost:4000/2018/silly-talks</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Provable Security and Cryptocurrency</title>
-        <description>&lt;p&gt;We had our first student talk this week by Abrahim Ladha on Provable Security and Cryptocurrency. Slides are &lt;a href=&quot;https://drive.google.com/open?id=1sskdo1RqcR7LLX9yx5O9SesEFvPyH-fb&quot;&gt;here&lt;/a&gt; along with his references below. If you would like to know more about Abrahim, he has a website &lt;a href=&quot;https://ladha.me/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;References:&lt;/p&gt;
-
-&lt;p&gt;[1] Introduction to Modern Cryptography. Bellare, Rogaway. http://web.cs.ucdavis.edu/~rogaway/classes/227/spring05/book/main.pdf&lt;/p&gt;
-
-&lt;p&gt;[2] Vuvuzela: Scalable Private Messaging Resistant to Traffic Analysis. Jelle van den Hooff, David Lazar, Matei Zaharia, and Nickolai Zeldovich. https://people.csail.mit.edu/nickolai/papers/vandenhooff-vuvuzela.pdf&lt;/p&gt;
-
-&lt;p&gt;[3] Anonymity and Digital Currency. MIT 6.033 Spring 2018 Lecture 24. http://web.mit.edu/6.033/www/lec/s24.pdf&lt;/p&gt;
-
-&lt;p&gt;[4] Provable Security for Cryptocurrencies. Andrew Miller (Thesis). https://www.cs.umd.edu/~jkatz/THESES/amiller-thesis.pdf&lt;/p&gt;
-
-&lt;p&gt;[5] Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol. Aggelos Kiayias, Alexander Russell, Bernardo David, Roman Oliynykov. https://eprint.iacr.org/2016/889.pdf&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2018/security-cryptocurrency</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/security-cryptocurrency</guid>
         
         
         <category>blog</category>
