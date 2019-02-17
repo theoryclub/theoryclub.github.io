@@ -5,4 +5,4 @@ date: 2019-2-11 00:00:00 -0400
 categories: blog
 ---
 
-Our next meeting on February 11th will be a probabilistic method problem session in the spirit of Valentine's day. There will be donuts!
+This meeting is on the probabilistic method problem session in the spirit of Valentine's day. We went over some interesting bounds on dominating sets and Hamiltonian cycles in tournaments that can be easily derived from the probabilistic method. Check out the slides here : https://drive.google.com/open?id=1hS_qSnxrXiyniuuNB-TNTTGG3ar1lO2Ztyr0veeKRuk 
