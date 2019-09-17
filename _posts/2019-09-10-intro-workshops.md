@@ -1,7 +1,7 @@
 ---
 title: "Big O Fall 2019 Intro Workshops"
 header: Big O Fall 2019 Intro Workshops
-date: 2018-09-10 00:00:00 -0400
+date: 2019-09-10 00:00:00 -0400
 categories: blog
 ---
 
