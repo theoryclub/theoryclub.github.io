@@ -8,6 +8,6 @@ categories: blog
 We had our intro workshops this week!
 
 Sherry gave a workshop on Monday on paradoxes, which you can find <a href="{{ "/files/f2019-workshop1-paradoxes.pdf" | prepend: site.baseurl }}">here</a>,
-and Alvin gave a workshop on Tuesday on proofs, which you can find <a href="{{ "/files/f2019-workshop1-proofs.pdf" | prepend: site.baseurl }}">here</a>.
+and Alvin gave a workshop on Tuesday on proofs, which you can find <a href="{{ "/files/f2019-workshop2-proofs.pdf" | prepend: site.baseurl }}">here</a>.
 
 We will have four more intro workshops.
