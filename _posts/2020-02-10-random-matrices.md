@@ -7,4 +7,4 @@ categories: blog
 
 Benjamin Bray (graduated from GT with a masters in Computer Science)
 gave a talk on Random Matrices.
-The slides can be found <a href = "files/benrbray_algorithms-random-matrices_10feb2020.pdf">here</a>.
+The slides can be found <a href="{{ "/files/benrbray_algorithms-random-matrices_10feb2020.pdf" | prepend: site.baseurl }}">here</a>
