@@ -8,4 +8,5 @@ categories: blog
 We had an interesting set of crypto problems! This session was run by
 Neil Thistlethwaite.
 
-The problems can be found <a href = "files/s2020-Cryptography_Problem_Session.pdf">here</a>
+The problems can be found 
+<a href="{{ "/files/s2020-Cryptography_Problem_Session.pdf" | prepend: site.baseurl }}">here</a>
