@@ -1,7 +1,7 @@
 ---
 title: "Random matrices"
 header: Random matrices
-date: 2020-02-04 00:00:00 -0400
+date: 2020-02-10 00:00:00 -0400
 categories: blog
 ---
 
