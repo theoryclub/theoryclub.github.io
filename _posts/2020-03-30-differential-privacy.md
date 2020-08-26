@@ -1,6 +1,6 @@
 ---
-title: "Acyclic orientations"
-header: Acyclic orientations
+title: "Differential privacy"
+header: Differential privacy
 date: 2020-03-03 00:00:00 -0400
 categories: blog
 ---
