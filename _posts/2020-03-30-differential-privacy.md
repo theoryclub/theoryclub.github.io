@@ -1,7 +1,7 @@
 ---
 title: "Differential privacy"
 header: Differential privacy
-date: 2020-03-03 00:00:00 -0400
+date: 2020-03-30 00:00:00 -0400
 categories: blog
 ---
 
