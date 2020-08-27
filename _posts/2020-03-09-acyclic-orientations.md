@@ -1,7 +1,7 @@
 ---
 title: "Acyclic orientations"
 header: Acyclic orientations
-date: 2020-03-03 00:00:00 -0400
+date: 2020-03-09 00:00:00 -0400
 categories: blog
 ---
 

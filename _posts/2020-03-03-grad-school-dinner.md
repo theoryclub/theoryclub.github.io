@@ -1,6 +1,6 @@
 ---
-title: "Min-Max Optimization"
-header: Min-Max Optimization
+title: "Graduate Schule Dinner"
+header: Graduate School Dinner
 date: 2020-03-03 00:00:00 -0400
 categories: blog
 ---
