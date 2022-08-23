@@ -1,21 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>
-            {{ page.title }}
-        </title>
-        <link rel="icon" href="{{ "favicon.ico" | prepend: site.baseurl }}">
-        <link href='https://fonts.googleapis.com/css?family=Catamaran:300,700' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Lora:700,400' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="{{ "/css/aesthic.css" | prepend: site.baseurl }}">
-        {% if page.includecss != blank %}
-        <link rel="stylesheet" href="{{ "/css/" | prepend: site.baseurl | append: page.includecss }}">
-        {% endif %}
-        <meta charset="utf-8">
-        <meta name="author" content="Theory Club">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="{{ site.description }}">
-    </head>
+    {% include header.html %}
     <body>
         <div id="wrapper">
             <div id="navigation">
