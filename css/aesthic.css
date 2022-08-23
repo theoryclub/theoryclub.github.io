@@ -129,10 +129,12 @@ p {
 
 a {
     color: #33cccc;
+    fill: #33cccc;
 }
 
 a:hover {
     color: #65ece1;
+    fill: #65ece1;
 }
 
 nav {
@@ -164,5 +166,4 @@ nav a:hover {
         display: block;
         margin-bottom: 0.5em;
     }
-    
 }
