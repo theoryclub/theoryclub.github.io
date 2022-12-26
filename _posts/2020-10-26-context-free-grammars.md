@@ -1,7 +1,7 @@
 ---
-title: "Convex Optimization"
-header: Convex Optimization
-date: 2020-10-19 00:00:00 -0400
+title: "Context Free Grammars"
+header: Context Free Grammars
+date: 2020-10-26 00:00:00 -0400
 categories: blog
 ---
 

@@ -5,7 +5,9 @@ date: 2018-10-01 00:00:00 -0400
 categories: blog
 ---
 
-We had our first student talk this week by Abrahim Ladha on Provable Security and Cryptocurrency. Slides are <a href="https://drive.google.com/open?id=1sskdo1RqcR7LLX9yx5O9SesEFvPyH-fb">here</a> along with his references below. If you would like to know more about Abrahim, he has a website <a href="https://ladha.me/">here</a>.
+We had our first student talk this week by Abrahim Ladha on Provable Security and Cryptocurrency.
+
+Slides are <a href="https://drive.google.com/open?id=1sskdo1RqcR7LLX9yx5O9SesEFvPyH-fb">here</a> along with his references below. If you would like to know more about Abrahim, he has a website <a href="https://ladha.me/">here</a>.
 
 References:
 
