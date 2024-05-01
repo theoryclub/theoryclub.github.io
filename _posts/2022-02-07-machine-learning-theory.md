@@ -17,6 +17,4 @@ Slides from today can be found
 
 I'll try to add in the proofs later tonight in case anyone wants to reference
 them and here's the link to Vempala's version of the course from last semester:
-[https://santoshv.github.io/MLTheory/MLcourse.html](
- https://santoshv.github.io/MLTheory/MLcourse.html).
-
+[https://santoshv.github.io/MLTheory/MLcourse.html](https://santoshv.github.io/MLTheory/MLcourse.html).

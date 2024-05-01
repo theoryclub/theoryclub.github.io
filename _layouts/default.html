@@ -1,24 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-    {% include header.html %}
-    <body>
-        <div id="wrapper">
-            <div id="navigation">
-                {% include navbar.html %}
-            </div>
-            <div id="header" class="card">
-                <h1 class="info" style="text-align: center;">
-                    <strong>
-                        {{ page.header}}
-                    </strong>
-                </h1>
-            </div>
-            <div id="content" class="card">
-                {{ content }}
-            </div>
-            <div id="footer-container">
-                {% include footer.html %}
-            </div>
-        </div>
-    </body>
+  {% include header.html %}
+  <body>
+    <div id="wrapper">
+      <div id="navigation">{% include navbar.html %}</div>
+      <div id="header" class="card">
+        <h1 class="info" style="text-align: center">
+          <strong>{{ page.header }}</strong>
+        </h1>
+      </div>
+      <div id="content" class="card">{{ content }}</div>
+      <div id="footer-container">{% include footer.html %}</div>
+    </div>
+  </body>
 </html>

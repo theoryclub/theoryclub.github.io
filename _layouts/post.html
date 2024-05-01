@@ -1,29 +1,24 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-    {% include header.html %}
-    <body>
-        <div id="wrapper">
-            <div id="navigation">
-                {% include navbar.html %}
-            </div>
-            <div id="header" class="card">
-                <h1 class="info" style="text-align: center;">
-                    <strong>
-                        {{ page.header}}
-                    </strong>
-                </h1>
-                <h3 class="info">written by {{ page.author }}</h3>
-                <h4 class="info">published {{ page.date | date: "%B %d, %Y" }}</h4>
-            </div>
-            <div id="content" class="card">
-                {{ content }}
-                {% if page.moreexists %}
-                    {% include more.html prev=page.previous.title prevurl = page.previous.url prevdescription = page.previous.excerpt %}
-                {% endif %}
-            </div>
-            <div id="footer-container">
-                {% include footer.html %}
-            </div>
-        </div>
-    </body>
+  {% include header.html %}
+  <body>
+    <div id="wrapper">
+      <div id="navigation">{% include navbar.html %}</div>
+      <div id="header" class="card">
+        <h1 class="info" style="text-align: center">
+          <strong>{{ page.header}}</strong>
+        </h1>
+        <h3 class="info">written by {{ page.author }}</h3>
+        <h4 class="info">published {{ page.date | date: "%B %d, %Y" }}</h4>
+      </div>
+      <!-- prettier-ignore -->
+      <div id="content" class="card">
+        {{ content }}
+        {% if page.moreexists %}
+            {% include more.html prev = page.previous.title prevurl = page.previous.url prevdescription = page.previous.excerpt %}
+        {% endif %}
+      </div>
+      <div id="footer-container">{% include footer.html %}</div>
+    </div>
+  </body>
 </html>

@@ -7,4 +7,3 @@ categories: problem-session blog
 
 Tonight we are just going to continue working on last week's problem
 session, keep it lowkey since it's Thanksgiving week after all.
-

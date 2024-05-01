@@ -9,4 +9,3 @@ Suhas gave a talk on Communication Complexity.
 
 The slides can be found
 <a href="{{ "/files/TheoryClub (1).pdf" | prepend: site.baseurl }}">here</a>.
-

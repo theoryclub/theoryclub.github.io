@@ -14,8 +14,4 @@ problem](https://en.wikipedia.org/wiki/Set_cover_problem) or [optimal
 sensor placement](https://jmlr.org/papers/volume9/krause08a/krause08a.pdf).
 
 For more on submodularity, see these
-lecture [notes](
-https://people.seas.harvard.edu/~yaron/AM221-S16/lecture_notes/AM221_lecture18.pdf
-) or my personal [notes](
-https://lectures.cgdct.moe/misc/gacha-optimization/writeup.pdf#page=35).
-
+lecture [notes](https://people.seas.harvard.edu/~yaron/AM221-S16/lecture_notes/AM221_lecture18.pdf) or my personal [notes](https://lectures.cgdct.moe/misc/gacha-optimization/writeup.pdf#page=35).

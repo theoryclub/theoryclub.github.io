@@ -6,4 +6,3 @@ categories: blog
 ---
 
 We covered basic probability in preparation for a future donut problem session.
-

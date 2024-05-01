@@ -12,4 +12,3 @@ The best[^1] among them, Christofides Algorithm,
 creatively combines many other classic graph algorithms.
 
 [^1]: I might be lying; come to find out why.
-

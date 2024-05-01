@@ -1,29 +1,36 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-    {% include header.html %}
-    <body>
-        <div id="wrapper">
-            <div id="navigation">
-                {% include navbar.html %}
-            </div>
-            <div id="greetings" class="card">
-                <h1 class="logo" style="font-family: 'Oswald' !important; font-size: 4em !important;">
-                    THE<a style="color:#33cccc !important; font-family: 'Catamaran' !important; font-weight: 700 !important; font-size: 1.27em !important;">O</a>RY CLUB
-                </h1>
-                <h1>
-                    <strong>
-                        {{ page.greeting }}
-                    </strong>
-                </h1>
-            </div>
-            <div id="message" class="card">
-                <p>
-                {{ content }}
-                </p>
-            </div>
-            <div id="footer-container">
-                {% include footer.html %}
-            </div>
-        </div>
-    </body>
+  {% include header.html %}
+
+  <body>
+    <div id="wrapper">
+      <div id="navigation">{% include navbar.html %}</div>
+      <div id="greetings" class="card">
+        <h1
+          class="logo"
+          style="
+            font-family: &quot;Oswald&quot; !important;
+            font-size: 4em !important;
+          "
+        >
+          THE<a
+            style="
+              color: #33cccc !important;
+              font-family: &quot;Catamaran&quot; !important;
+              font-weight: 700 !important;
+              font-size: 1.27em !important;
+            "
+            >O</a
+          >RY CLUB
+        </h1>
+        <h1>
+          <strong>{{ page.greeting }}</strong>
+        </h1>
+      </div>
+      <div id="message" class="card">
+        <p>{{ content }}</p>
+      </div>
+      <div id="footer-container">{% include footer.html %}</div>
+    </div>
+  </body>
 </html>

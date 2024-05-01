@@ -11,4 +11,3 @@ that means there'll be donuts 😍 🍩.
 
 The problems may be found
 <a href="{{ "/files/Theory_Club__Pset-1.pdf" | prepend: site.baseurl }}">here</a>.
-

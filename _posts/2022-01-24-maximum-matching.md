@@ -12,4 +12,3 @@ We'll go over the basics of matchings and look at two algorithms for maximum
 matchings: Hopcroft-Karp for bipartite graphs and Edmonds' famous Blossom
 algorithm for general graphs. If time permits, we may also look at an algorithm
 for maximum-weight perfect matchings over bipartite graphs as well.
-

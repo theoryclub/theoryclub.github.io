@@ -11,4 +11,3 @@ topics: randomized sorting, Karger's min cut algorithm).
 
 A recording can be found here:
 [https://tinyurl.com/4qnj67pb](https://tinyurl.com/4qnj67pb).
-

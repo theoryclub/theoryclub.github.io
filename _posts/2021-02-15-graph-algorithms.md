@@ -7,4 +7,3 @@ categories: blog
 
 Arvind gave a talk about graph algorithms (breadth-first search,
 short-cycle decompositions, and (if time permits) random contractions).
-

@@ -6,4 +6,3 @@ categories: blog
 ---
 
 Brian presented on symmetric encryption algorithms and their related attacks.
-

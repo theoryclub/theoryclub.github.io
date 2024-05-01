@@ -6,4 +6,3 @@ categories: blog
 ---
 
 Arvind gave a talk about randomized algorithms.
-

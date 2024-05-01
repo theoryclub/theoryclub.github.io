@@ -10,4 +10,3 @@ about which distributions maximize information.
 
 The (unfinished) slides may be found
 [here]({{ "/files/info.pdf" | prepend: site.baseurl }}).
-

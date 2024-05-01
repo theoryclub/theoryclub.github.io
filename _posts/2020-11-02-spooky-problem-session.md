@@ -8,5 +8,4 @@ categories: problem-session blog
 We had a SpOoOky (Halloween-themed)
 🎃 problem session led by Arvind today.
 
-The problems can be found  <a href="{{ "/files/halloween-probs.pdf" | prepend: site.baseurl }}">here</a>.
-
+The problems can be found <a href="{{ "/files/halloween-probs.pdf" | prepend: site.baseurl }}">here</a>.

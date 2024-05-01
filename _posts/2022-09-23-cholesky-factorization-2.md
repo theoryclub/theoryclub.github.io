@@ -34,7 +34,6 @@ and preconditioning with the conjugate gradient, improving over k-nearest
 neighbors particularly in high dimensional, unusual, or otherwise messy
 geometries with non-isotropic kernel functions.
 
-
 (hopefully more clear after the talk)
 
 There'll be plenty of time for questions afterwards, and I
@@ -49,4 +48,3 @@ The slides may be found
 [here]({{ "/files/sodachi2.png" | prepend: site.baseurl }})
 and some background material from last year can be found
 [here](/2022/cholesky-factorization-1).
-

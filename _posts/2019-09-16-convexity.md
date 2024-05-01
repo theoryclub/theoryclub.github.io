@@ -12,4 +12,4 @@ affine dependence, and we covered interesting properties such as Radon's
 lemma and Carathéodory's theorem
 
 If you are interested into looking more into this field, a great resource
-is <a href = "https://link.springer.com/book/10.1007/978-1-4613-0039-7"> Lectures on Discrete Geometry </a>  by Jiří Matoušek.
+is <a href = "https://link.springer.com/book/10.1007/978-1-4613-0039-7"> Lectures on Discrete Geometry </a> by Jiří Matoušek.

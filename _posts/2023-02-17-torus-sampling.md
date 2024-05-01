@@ -13,4 +13,3 @@ The material discussed can be found in the book [1].
 
 [1] H. Rue and L. Held, Gaussian Markov Random Fields: Theory and Applications.
 New York: Chapman and Hall/CRC, 2005. doi: 10.1201/9780203492024.
-

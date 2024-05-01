@@ -16,6 +16,4 @@ If time permits, I may also talk about a faster
 Oh btw one can use LP duality to prove max flow = min cut over the integers. \\
 But you need to utilize additional properties
 (one of them is that A is totally unimodular
-[https://theory.stanford.edu/~jvondrak/MATH233B-2017/lec3.pdf](
- https://theory.stanford.edu/~jvondrak/MATH233B-2017/lec3.pdf)).
-
+[https://theory.stanford.edu/~jvondrak/MATH233B-2017/lec3.pdf](https://theory.stanford.edu/~jvondrak/MATH233B-2017/lec3.pdf)).

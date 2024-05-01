@@ -11,4 +11,3 @@ walks, Bayes theorem, and maybe more if time permits.
 
 The slides can be found
 [here](https://docs.google.com/presentation/d/1XuGNICJht43_X19c44AGCrfbKEFSmQoGnPwmGoYtmiE/edit?usp=sharing).
-

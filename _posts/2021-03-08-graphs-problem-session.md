@@ -9,4 +9,3 @@ We had a problem session guided by Arvind on graphs.
 
 The problems can be found
 <a href="{{ "/files/graphs.pdf" | prepend: site.baseurl }}">here</a>.
-

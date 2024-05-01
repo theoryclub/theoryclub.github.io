@@ -14,4 +14,3 @@ The handout can be found
 <a href="{{ "/files/cholesky_handout.pdf" | prepend: site.baseurl }}">here</a>
 and the slides can be found
 <a href="{{ "/files/cholesky_presentation.pdf" | prepend: site.baseurl }}">here</a>.
-

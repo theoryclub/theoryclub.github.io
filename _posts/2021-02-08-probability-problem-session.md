@@ -10,4 +10,3 @@ involving probability and randomized algorithms.
 
 The problems can be found
 <a href="{{ "/files/feb_8_meeting.pdf" | prepend: site.baseurl }}">here</a>.
-

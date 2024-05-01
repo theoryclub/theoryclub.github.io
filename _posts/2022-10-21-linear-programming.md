@@ -13,4 +13,3 @@ geometry, complexity theory, compiler design, etc.
 
 I encourage everyone to come, as this is undoubtedly one
 of the most useful skills I have learned at Georgia Tech.
-

@@ -1,46 +1,46 @@
 h1[class*="info"] {
-    margin-top: 1em;
-    margin-bottom: 0.5em;
-    font-size: 2em !important;
-    color: #33cccc;
-    font-family: 'Lora', serif;
-    font-weight: 700;
-    border-style: none;
-    border-width: 0.25em;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  font-size: 2em !important;
+  color: #33cccc;
+  font-family: "Lora", serif;
+  font-weight: 700;
+  border-style: none;
+  border-width: 0.25em;
 }
 
 h3[class*="info"] {
-    font-family: 'Lora', serif;
-    font-weight: 400;
-    color: #333;
-    text-align: center;
+  font-family: "Lora", serif;
+  font-weight: 400;
+  color: #333;
+  text-align: center;
 }
 
 h4[class*="info"] {
-    font-weight: 300;
-    color: #444;
-    text-align: center;
+  font-weight: 300;
+  color: #444;
+  text-align: center;
 }
 
 p {
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
 .card {
-    max-width: 36em !important;
+  max-width: 36em !important;
 }
 
 blockquote {
-    margin-top: 0.75em;
-    margin-bottom: 0.75em;
-    padding-left: 0.75em;
-    font-family: 'Lora', serif;
-    color: #33cccc;
-    border-left: solid;
-    border-width: 0.25em;
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+  padding-left: 0.75em;
+  font-family: "Lora", serif;
+  color: #33cccc;
+  border-left: solid;
+  border-width: 0.25em;
 }
 
 img {
-    max-width: 36em !important;
+  max-width: 36em !important;
 }

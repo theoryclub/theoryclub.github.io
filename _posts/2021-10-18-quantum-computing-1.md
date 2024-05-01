@@ -9,4 +9,3 @@ Suhas talked bout NP and connections to quantum computing.
 
 You have to know nothing about quantum
 computing. Maybe someone will win $1M today :)
-

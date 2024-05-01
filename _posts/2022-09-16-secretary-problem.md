@@ -11,4 +11,3 @@ online algorithms.
 
 The slides can be found
 [here](https://docs.google.com/presentation/d/1WKF5YDXTfysR1YkPKdqkgWkIOzyWHOQOhsQV8t-hFK8/edit?usp=sharing).
-

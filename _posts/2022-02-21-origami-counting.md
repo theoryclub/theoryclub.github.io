@@ -11,9 +11,7 @@ reduced a counting problem in origami into a graph coloring problem
 
 More broadly, it falls under Geometric Folding Algorithms
 (if you're interested you can find a whole course on it here:
-[https://courses.csail.mit.edu/6.849/fall12/lectures/](
- https://courses.csail.mit.edu/6.849/fall12/lectures/))
+[https://courses.csail.mit.edu/6.849/fall12/lectures/](https://courses.csail.mit.edu/6.849/fall12/lectures/))
 
 The slides can be found
 [here](https://docs.google.com/presentation/d/1yvNazTZZsW_Kra94CQdXIeRtp2SVlAyfjCNlS2n6Odc/edit?usp=sharing).
-

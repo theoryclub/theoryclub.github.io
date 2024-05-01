@@ -12,4 +12,3 @@ time I might cover some basic lattice cryptography as well.
 
 The problems can be found
 <a href="{{ "/files/Theory_Club__Crytography_Pset.pdf" | prepend: site.baseurl }}">here</a>.
-

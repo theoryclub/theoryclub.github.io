@@ -13,4 +13,3 @@ last minute, but we'll still have the usual snacks!
 
 The problems may be found
 <a href="{{ "/files/Theory_Club__Pset.pdf" | prepend: site.baseurl }}">here</a>.
-

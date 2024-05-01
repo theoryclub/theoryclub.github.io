@@ -6,4 +6,3 @@ categories: blog
 ---
 
 Today we took our minds off school and midterms by playing skribbl.io!
-

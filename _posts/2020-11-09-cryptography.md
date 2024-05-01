@@ -6,4 +6,3 @@ categories: blog
 ---
 
 Neil gave a talk on cryptography (including topics like number theory and RSA).
-

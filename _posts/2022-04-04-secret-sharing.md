@@ -9,4 +9,3 @@ Today Brian talked about secret sharing schemes.
 
 I'll cover threshold-based schemes, like Shamir's, as well as some generalized
 constructions. I'll also go over an application in secure multiparty computing.
-

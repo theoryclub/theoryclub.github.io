@@ -7,4 +7,3 @@ categories: blog
 
 Arvind gave a talk about graph coloring (and some
 results for the problem based on spectral graph theory).
-

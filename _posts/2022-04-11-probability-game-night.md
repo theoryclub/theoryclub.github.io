@@ -10,6 +10,7 @@ On Monday night we had a gambling Probability Game Night!
 We'll explain the rules and games more in detail on
 Monday, but the important differences from our usual
 meetings that we wanted to let you know about now are:
+
 - Dinner will be provided! We'll be having (tentatively) Ray's NY Pizza for
   the first 30 minutes from 6:30pm - 7pm. Nothing's stopping you from eating
   after 7, but that's when we'll start the games, and time lost is expected
@@ -31,4 +32,3 @@ leaking any more details about the games until Monday! 🙂
 [^1]: Yes, programmable calculators are allowed, and you can program on it if you really want. We think this is going to be enough of a barrier to stop anyone from cheesing the games too much. 😉
 
 ![poster]({{ "/files/theory_club_prob_game_night_poster.png" | prepend: site.baseurl }})
-

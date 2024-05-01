@@ -7,4 +7,3 @@ categories: blog
 
 Brian gave an introduction to auction design,
 a key topic in algorithmic game theory.
-

@@ -6,4 +6,3 @@ categories: blog
 ---
 
 We didn't have a meeting this week. Happy Thanksgiving!
-

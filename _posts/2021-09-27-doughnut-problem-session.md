@@ -10,4 +10,3 @@ Tonight we're going to have a 🍩 DONUT 🍩 PROBLEM
 
 The problems can be found
 <a href="{{ "/files/Theory_Club__Crytography_Pset.pdf" | prepend: site.baseurl }}">here</a>.
-

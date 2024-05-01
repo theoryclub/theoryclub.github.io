@@ -10,4 +10,3 @@ club, went over the game from the CoC Club Fair, and tried a few more puzzles.
 
 The slides may be found
 [here](https://docs.google.com/presentation/d/15ly-c9r2FnC2XMvx-3Xh_1_pNkW5vOfqIP-2NJl2BFg/edit?usp=sharing).
-

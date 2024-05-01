@@ -12,4 +12,3 @@ who won against an officer at the org fair.
 
 The slides can be found
 <a href="{{ "/files/comm_complexity.pptx" | prepend: site.baseurl }}">here</a>.
-

@@ -6,4 +6,3 @@ categories: blog
 ---
 
 Neil lectured on topics in cryptography (probably mostly RSA).
-

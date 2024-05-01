@@ -16,4 +16,3 @@ is an SRAM-based memory system that creates the illusion of fast and cheap
 memory.While computer architecture focuses on optimizing cache usage for the
 general case, we will discuss how to analyze the cache usage of algorithms and
 examine how rewriting algorithms can result in better cache complexities.
-

@@ -10,4 +10,3 @@ set on some of the topics we previously covered.
 
 The problems may be found
 [here]({{ "/files/Donut_Problem_Set_Fall_2022.pdf" | prepend: site.baseurl }}).
-

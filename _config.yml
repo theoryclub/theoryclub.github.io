@@ -18,16 +18,15 @@ plugins:
 
 # Defaults
 defaults:
-    -
-        scope:
-            path: ""
-            type: "posts"
-        values:
-            layout: post
-            includecss: post.css
-            moreexists: true
-            permalink: /:year/:title
-            author: Theory Club
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      includecss: post.css
+      moreexists: true
+      permalink: /:year/:title
+      author: Theory Club
 
 future: true
 

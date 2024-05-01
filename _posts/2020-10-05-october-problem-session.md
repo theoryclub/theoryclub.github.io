@@ -8,4 +8,3 @@ categories: problem-session blog
 We are having our first problem session tonight at 6:30 pm. Hope to see you there!
 
 The slides can be found <a href="{{ "/files/provable_security.pdf" | prepend: site.baseurl }}">problemset_oct_2020.pdf</a>.
-

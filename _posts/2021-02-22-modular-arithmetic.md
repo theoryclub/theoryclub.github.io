@@ -6,4 +6,3 @@ categories: blog
 ---
 
 Tonight, Neil lectured on modular arithmetic and cryptography.
-

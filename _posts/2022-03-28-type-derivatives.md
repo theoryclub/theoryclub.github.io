@@ -6,4 +6,3 @@ categories: blog
 ---
 
 Ohad presented on type stuff (like taking the derivative of a type).
-

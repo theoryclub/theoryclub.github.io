@@ -9,4 +9,3 @@ Officer elections for next school year will be held on April 23rd.
 
 If you are interested in becoming an officer, fill our the following form:
 <a href="https://goo.gl/forms/kTja8DNGGlp2qZV13">here</a>.
-

@@ -7,4 +7,3 @@ categories: blog
 
 Stephen lectured on iterative methods for solving linear
 systems, fixed point methods, and gradient descent.
-

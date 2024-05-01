@@ -9,4 +9,3 @@ Daniel and Sherry gave a talk on partially ordered sets and the Sperner property
 
 They went over the proof of Sperner Theorem as well as its applications on some common posets.
 This meeting was taken from Stanely's Algebraic Combinatorics book (Chapter 4).
-

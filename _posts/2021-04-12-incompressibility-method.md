@@ -7,4 +7,3 @@ categories: blog
 
 Abrahim Ladha gave a talk about the [incompressibility
 method](https://en.wikipedia.org/wiki/Incompressibility_method).
-

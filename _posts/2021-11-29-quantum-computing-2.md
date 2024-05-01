@@ -14,4 +14,3 @@ you multiply). We'll discuss gates, some fundamental problems and quantum
 speedups for those problems, and quantum computing in practice. If we have
 time, I will also discuss results in recent research.In addition, you may
 get to hear me talk trash about IBM 🙂.
-

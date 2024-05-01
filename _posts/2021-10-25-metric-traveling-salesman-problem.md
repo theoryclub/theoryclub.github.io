@@ -10,4 +10,3 @@ for the Metric Traveling Salesman Problem (metric TSP).
 
 We'll get to cover the best-known (I am lying just a
 little bit) approximation algorithm for this problem.
-

@@ -7,4 +7,3 @@ categories: blog
 
 For the last meeting of the semester, Brian covered the probabilistic
 method, a creative and popular proof technique in combinatorics.
-
