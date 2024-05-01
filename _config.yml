@@ -30,3 +30,12 @@ defaults:
             author: Theory Club
 
 future: true
+
+exclude:
+  - flake.lock
+  - flake.nix
+  - Gemfile
+  - Gemfile.lock
+  - gemset.nix
+  - pkgs/
+  - README.md
