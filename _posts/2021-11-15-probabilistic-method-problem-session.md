@@ -12,4 +12,4 @@ The probability of donuts 🍩 being at Theory Club
 is greater than 0, you know what that means 👀.
 
 The problems can be found
-<a href="{{ "/files/Theory_Club__Crytography_Pset (1).pdf" | prepend: site.baseurl }}">here</a>.
+<a href="{{ "/files/Theory_Club__Crytography_Pset%20(1).pdf" | prepend: site.baseurl }}">here</a>.

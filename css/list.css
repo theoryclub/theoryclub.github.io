@@ -42,7 +42,7 @@ h3[class*="info"] a {
   float: none;
 }
 
-#continuelink {
+a[class*="continuelink"] {
   text-decoration: none;
   font-variant: small-caps;
   letter-spacing: 0.05em;

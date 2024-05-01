@@ -1,1 +1,3 @@
 .*Trailing slash on void elements has no effect.*
+.*CSS: “word-wrap”: “break-all” is not a “overflow-wrap”.*
+.*CSS: “max-width”: “auto” is not a “max-width” value.*
