@@ -14,8 +14,8 @@
       let
         pkgs = nixpkgs.legacyPackages.${system};
         site = self.packages.${system}.default;
-        formatters = with pkgs; [ isort black shfmt nixpkgs-fmt ];
-        linters = with pkgs; [ ruff statix ];
+        formatters = with pkgs; [ nodePackages.prettier nixpkgs-fmt ];
+        linters = with pkgs; [ statix ];
       in
       {
         packages.${system} = let inherit (pkgs) callPackage; in {
@@ -26,32 +26,20 @@
           name = "formatter";
           runtimeInputs = formatters;
           text = ''
-            npx prettier --write "$@"
-            julia --eval "using JuliaFormatter; format(\"$1\")"
-            isort "$@"
-            black "$@"
-            shfmt --write "$@"
+            prettier --write "$@"
             nixpkgs-fmt "$@"
           '';
         };
 
-        checks.${system}.lint = pkgs.buildNpmPackage {
+        checks.${system}.lint = pkgs.stdenvNoCC.mkDerivation {
           name = "lint";
           src = ./.;
-          inherit (site) npmDepsHash;
-          dontNpmBuild = true;
           doCheck = true;
           nativeCheckInputs = site.nativeBuildInputs ++ formatters ++ linters;
           checkPhase = ''
-            npx prettier --check .
-            isort --check --diff .
-            black --check --diff .
-            ruff check .
-            shfmt --diff .
+            prettier --check .
             statix check
-            source ./bin/vnu _assets
-            source ./bin/vnu _css
-            source ./bin/vnu _libs
+            vnu --Werror --skip-non-css --filterfile .vnurc css
           '';
           installPhase = "touch $out";
         };

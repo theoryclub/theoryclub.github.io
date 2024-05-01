@@ -38,11 +38,6 @@ stdenvNoCC.mkDerivation rec {
     runHook postBuild
   '';
 
-  postBuild = ''
-    # don't ignore files in .gitignore
-    prettier --write ${site} --ignore-path=
-  '';
-
   doCheck = true;
   nativeCheckInputs = [ validator-nu lychee ];
   checkPhase = ''
