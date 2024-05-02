@@ -7,3 +7,6 @@ categories: blog
 
 Christian presented on the field of cryptography, including
 its applications and some interesting algorithms.
+
+The slides may be found [here]({{
+"/files/Intro_to_Cryptography.pdf" | prepend: site.baseurl }}).

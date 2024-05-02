@@ -10,3 +10,6 @@ now at CMU's Algorithms, Combinatorics, and Optimization program.
 
 The plan is to have a couple of short presentations followed by a
 panel/Q&A on CS research and grad school. Pizza will be provided.
+
+![photo of the panel]({{
+"/files/PXL_20230310_002516075.webp" | prepend: site.baseurl }})

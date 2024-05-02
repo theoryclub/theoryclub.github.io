@@ -7,3 +7,6 @@ categories: blog
 
 Stephen talked about his thesis research
 and various projects during his time here.
+
+The slides may be found [here]({{
+"/files/transport_by_cumulant_matching.pdf" | prepend: site.baseurl }}).

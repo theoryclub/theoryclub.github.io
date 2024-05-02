@@ -7,3 +7,6 @@ categories: blog
 
 Stephen and Brian, along with those interested in becoming a club
 officer, gave some short and sweet mini-talks on topics of interest.
+
+Christian's talk is [here]({{
+"/files/Computational_Number_Theory.pdf" | prepend: site.baseurl }}).

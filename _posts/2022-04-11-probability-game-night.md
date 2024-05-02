@@ -32,3 +32,6 @@ leaking any more details about the games until Monday! 🙂
 [^1]: Yes, programmable calculators are allowed, and you can program on it if you really want. We think this is going to be enough of a barrier to stop anyone from cheesing the games too much. 😉
 
 ![poster]({{ "/files/theory_club_prob_game_night_poster.png" | prepend: site.baseurl }})
+
+![people at the event]({{
+"/files/IMG_6050.webp" | prepend: site.baseurl }})

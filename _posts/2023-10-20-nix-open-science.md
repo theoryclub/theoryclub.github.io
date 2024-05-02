@@ -6,3 +6,6 @@ categories: blog
 ---
 
 Stephen talked about open science, reproducibility, and Nix/NixOS.
+
+The slides may be found [here]({{
+"/files/nix.pdf" | prepend: site.baseurl }}).

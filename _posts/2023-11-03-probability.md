@@ -10,3 +10,6 @@ in probability and worked through some example problems.
 
 These will come in handy for our next probability game night,
 and are commonly seen in interviews and math competitions.
+
+The slides may be found [here]({{
+"/files/Probability_Introduction_1.pdf" | prepend: site.baseurl }}).

@@ -14,3 +14,16 @@ will present the historical development, and illustrate the key concepts in
 the theory of causation.
 
 Speaker webpage: <https://jonathan-z.github.io/>
+
+Slides are available [here]({{
+"/files/CausalityTheoryClub.pdf" | prepend: site.baseurl }}).
+References and further reading
+
+- Causality: Models, Reasoning, and Inference (Pearl)
+- The Art and Science of Cause and Effect (Pearl)
+- Elements of Causal Inference: Foundations and
+  Learning Algorithms (Peters, Janzing, and Schölkopf)
+- Mostly Harmless Econometrics (Angrist and Pischke)
+- Short Course on Causal Inference (Shakkottai)
+- Probabilistic Machine Learning: Advanced Topics (Murphy)
+- Probabilistic Graphical Models (Koller and Friedman)
