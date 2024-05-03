@@ -2,3 +2,4 @@
 result
 # exclude automatically generated files
 _site/
+.lycheecache
