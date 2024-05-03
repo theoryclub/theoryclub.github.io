@@ -37,10 +37,10 @@ stdenvNoCC.mkDerivation rec {
   checkPhase = ''
     runHook preCheck
 
-    vnu --Werror --skip-non-html --filterfile .vnurc "${site}"
-    vnu --Werror --skip-non-css --filterfile .vnurc "${site}"
-    vnu --Werror --skip-non-svg --filterfile .vnurc "${site}"
-    lychee --offline _site
+    vnu --Werror --skip-non-html --filterfile .vnurc ${site}
+    vnu --Werror --skip-non-css --filterfile .vnurc ${site}
+    vnu --Werror --skip-non-svg --filterfile .vnurc ${site}
+    lychee --offline ${site}
 
     runHook postCheck
   '';
