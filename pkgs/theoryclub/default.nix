@@ -18,14 +18,8 @@ stdenvNoCC.mkDerivation rec {
     gemdir = src;
   };
 
-  configurePhase = ''
-    runHook preConfigure
-
-    export LOCALE_ARCHIVE="${glibcLocales}/lib/locale/locale-archive"
-    export LANG=en_US.UTF-8
-
-    runHook postConfigure
-  '';
+  env.LOCALE_ARCHIVE = "${glibcLocales}/lib/locale/locale-archive";
+  env.LC_ALL = "en_US.UTF-8";
 
   strictDeps = true;
   nativeBuildInputs = [ gems gems.wrappedRuby ];
