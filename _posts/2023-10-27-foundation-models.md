@@ -1,7 +1,7 @@
 ---
 title: "Training Large-scale Foundation Models on Emerging AI Accelerators"
 header: Training Large-scale Foundation Models on Emerging AI Accelerators
-date: 2023-10-20 00:00:00 -0400
+date: 2023-10-27 00:00:00 -0400
 categories: blog
 ---
 
